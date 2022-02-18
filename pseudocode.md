@@ -7,7 +7,7 @@
 ````
 1. User wants chocolate milk.
 2. Is there milk?
-    - Yes --> is there enought milk?
+    - Yes --> is there enough milk?
             - Yes --> proceed
             - No --> cry, drink what's left
     - No --> no chocolate milk, cry
@@ -71,7 +71,7 @@ Spoon
 ```
 IF user wants chocolate milk RUN makeChocolateMilk.
 
-Program: Chocolate Milk
+Program: makeChocolateMilk
 
 START 
 
